@@ -1,6 +1,6 @@
 # NeuralNetwork
 
-##What is this repo about?
+## What is this repo about?
 ---
 This repo contains all the files with my personal projects and Neural Networks exercises I did while learning. 
 
